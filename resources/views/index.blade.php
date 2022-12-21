@@ -34,8 +34,8 @@
             
             
             <div class="header__reg">
-                <a href="authorisation.php"><img src="img/svg/user.svg" class="user_pic"></a>
-                <p><a href="authorisation.php">войти</a></p>
+                <a href="../authorisation"><img src="img/svg/user.svg" class="user_pic"></a>
+                <p><a href="../authorisation">войти</a></p>
             </div>
     </div>
 </header>

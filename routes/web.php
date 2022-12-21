@@ -19,3 +19,9 @@ Route::get('/', function () {
 Route::get('/news', function () {
     return view('news');
 });
+Route::get('/authorisation', function () {
+    return view('authorisation');
+});
+Route::get('/registration', function () {
+    return view('registration');
+});
